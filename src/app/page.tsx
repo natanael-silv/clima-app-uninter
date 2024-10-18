@@ -6,7 +6,7 @@ export default function Home() {
       <section className="relative min-h-[500px] md:h-[500px] overflow-hidden flex flex-col items-center">
         <video
           className="absolute object-cover w-full h-full"
-          src="/videos/amazon.mp4" 
+          src="/videos/bg-amazon.mp4" 
           muted
           loop
           autoPlay
