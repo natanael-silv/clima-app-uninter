@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "O que é aquecimento global?",
+    "answer": "O aquecimento global é o aumento gradual da temperatura média da Terra, causado principalmente pela emissão de gases de efeito estufa, como dióxido de carbono (CO₂), metano (CH₄) e óxidos de nitrogênio. Essas emissões vêm de atividades humanas, como a queima de combustíveis fósseis, desmatamento e agricultura. Esses gases retêm o calor na atmosfera, intensificando o efeito estufa natural e provocando mudanças climáticas, como derretimento de geleiras, elevação do nível do mar e eventos climáticos extremos."
+  },
+  {
+    "id": 2,
+    "question": "Aumento da temperatura global",
+    "answer": " A temperatura média global já aumentou mais de 1°C em relação à era pré-industrial, e as projeções indicam um aumento ainda maior nas próximas décadas."
+  },
+  {
+    "id": 3,
+    "question": "Eventos climáticos extremos",
+    "answer": "A frequência e intensidade de eventos extremos como ondas de calor, secas, inundações e tempestades têm aumentado significativamente em diversas regiões do planeta."
+  },
+  {
+    "id": 4,
+    "question": "Derretimento das geleiras e aumento do nível do mar",
+    "answer": " As geleiras estão derretendo em um ritmo acelerado, contribuindo para o aumento do nível do mar e colocando em risco cidades costeiras e pequenas ilhas."
+  },
+  {
+    "id": 5,
+    "question": "Acidificação dos oceanos",
+    "answer": "A absorção de dióxido de carbono pelos oceanos está causando a acidificação das águas, afetando a vida marinha e os ecossistemas costeiros."
+  },
+  {
+    "id": 6,
+    "question": "Impactos na saúde humana",
+    "answer": "Eventos climáticos extremos e a poluição do ar causada pelas mudanças climáticas estão afetando a saúde humana, aumentando o risco de doenças respiratórias, cardiovasculares e transmitidas por vetores."
+  }
+]
