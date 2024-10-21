@@ -18,8 +18,8 @@ export const generateStaticParams = async () => {
   }));
 };
 
-const PostPage = (props: any) => {
-  const slug = props.params.slug;
+const PostPage = ({ params }: { params: { slug: string } }) => {
+  const slug = params.slug;
   const post = getPostContent(slug);
   return (
     <div className="flex flex-col items-center">

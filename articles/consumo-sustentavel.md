@@ -56,4 +56,3 @@ O consumo sustentável é uma responsabilidade de todos. Pequenas mudanças em n
 
 ---
 
-_Gostou deste conteúdo? Acompanhe mais dicas sobre sustentabilidade e consumo consciente no blog do [Planeta Vivom](https://www.planetavivom.com)._

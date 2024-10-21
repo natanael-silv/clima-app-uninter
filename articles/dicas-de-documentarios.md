@@ -37,4 +37,3 @@ Separamos uma lista com **10 documentários** que abordam a pauta do clima. Conf
 
 ---
 
-*Assista a esses documentários e amplie sua visão sobre os impactos das mudanças climáticas. Para mais dicas e conteúdos sobre o meio ambiente, continue acompanhando o blog do [Planeta Vivom](https://www.planetavivom.com).*
